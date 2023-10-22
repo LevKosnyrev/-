@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Задания на рекурсивное определение списков", "Задания на рекурсивное определение списков\Задания на рекурсивное определение списков.vcxproj", "{3D839088-FE12-4135-B6D5-678F20D2E361}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D839088-FE12-4135-B6D5-678F20D2E361}.Debug|x64.ActiveCfg = Debug|x64
+		{3D839088-FE12-4135-B6D5-678F20D2E361}.Debug|x64.Build.0 = Debug|x64
+		{3D839088-FE12-4135-B6D5-678F20D2E361}.Debug|x86.ActiveCfg = Debug|Win32
+		{3D839088-FE12-4135-B6D5-678F20D2E361}.Debug|x86.Build.0 = Debug|Win32
+		{3D839088-FE12-4135-B6D5-678F20D2E361}.Release|x64.ActiveCfg = Release|x64
+		{3D839088-FE12-4135-B6D5-678F20D2E361}.Release|x64.Build.0 = Release|x64
+		{3D839088-FE12-4135-B6D5-678F20D2E361}.Release|x86.ActiveCfg = Release|Win32
+		{3D839088-FE12-4135-B6D5-678F20D2E361}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C2D5329-AC94-4A0A-A1B0-6D5752511560}
+	EndGlobalSection
+EndGlobal
